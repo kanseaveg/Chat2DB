@@ -1,0 +1,6 @@
+/* 给侧边栏添加边框 */
+.sidebar .sidebar-content {
+    border: 50px solid #000000; /* 边框样式 */
+    border-radius: 50px; /* 边框圆角 */
+    padding: 10px; /* 边框内边距 */
+}

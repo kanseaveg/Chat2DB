@@ -1,0 +1,16 @@
+fastapi
+streamlit
+uvicorn
+pydantic-settings
+baidu-aip
+aiohttp
+transformers==4.43.2
+sentence_transformers==2.2.2
+langchain
+streamlit_extras
+chardet
+func_timeout
+rapidfuzz
+sqlparse
+streamlit-aggrid
+streamlit-ace
