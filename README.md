@@ -2,6 +2,8 @@
 ## Pay Attention
 ### Live demo
 You can access the live demo version of Chat2DB by visiting [8.138.157.109](http://8.138.157.109/).
+Please be aware that due to the high cost of GPU, the live website currently only supports engines based on deepseek for LLM and t5-base for PLM. If you wish to experience the full version, we have provided **a comprehensive multi-engine Chat2DB framework code** in our repository. If you wish to experience the full version's features, please prepare an A800 GPU locally and deploy it according to the following instructions.
+
 
 ### Video demo
 You can watch the live video of Chat2DB by visiting [Chat2DB-demonstration](https://vimeo.com/995253448)
